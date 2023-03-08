@@ -5,5 +5,4 @@ The user friendly interface and the data managed by the database makes it an ide
 The various features such as property-window, client-window, owner-window provide efficient and smooth functioning of the property management system.
 This Project is Developed in Java for front-end and SQL for back-end.
 This Project is Developed using Netbeans IDE for Java, XAMPP server is used to connect to localhost-phpmyadmin for SQL.
-
 JDBC is used for connection between front end and back end
